@@ -145,3 +145,6 @@ dmypy.json
 cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/python
+nogopho/apps.json
+nogopho/lineageos_devices.csv
+nogopho/lineageos_devices.json
